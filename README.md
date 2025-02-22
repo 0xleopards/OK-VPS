@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5599195.png" width="279" height="85" alt="OK-VPS" />
+<a href="https://cooltext.com"><img src="https://github.com/user-attachments/assets/e15b803b-1446-4acb-b7f8-fae5c33cf937" />
 </h1>
 <h4 align="center">Bug Bounty Vps Setup Tools Installer</h4>
 <p align="center">
